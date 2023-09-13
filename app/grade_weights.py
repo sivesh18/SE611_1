@@ -10,5 +10,5 @@ class GradeWeights:
     def __init__(self) -> None:
         self.quizzes = 0.1
         self.midterm = 0.2
-        self.project = 0.4
+        self.project = 0.5
         self.final = 0.3
